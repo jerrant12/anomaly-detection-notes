@@ -1,0 +1,20 @@
+Okay, so, I wanted to make a visual anomaly detector.  The idea is to be able to watch video and figure out what is going 
+wrong.
+
+My first pass was a single layer.  It worked pretty well on the silly test set that I made.
+
+My second pass was to use a cute data set stolen from my cameras.  I used my front room.  1 day train and 1 day test.
+I think they were the 30th and 31st of oct 2025.   We noticed that the network was flagging light chages.
+
+some things we tried to do:
+- luminance layer -> I am not sure how well this worked, I didn't have a metric, which was my fault.  I am guessing it does.
+- upgraded to a more interesting network.  I didn't record how well that worked either.  Probably should take notes.
+- I switched to a l1 and msssim metric, that seemed to be pretty bad ass. 
+- I added more nighttime scenes and that worked out pretty well
+- I reduced the back channels and got an average image
+- I decreased the back channels and got an average image
+- I increased the back channels and got a weird cut out image
+- I then switched to a better, hopefully, upsample or down sample or whatever
+- I changed how errors were calculated and messed that up
+- I am now testing a version of all that stuff that seems to be working.   
+

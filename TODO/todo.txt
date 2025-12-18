@@ -1,0 +1,13 @@
+-add comments
+-what a function is doing
+-should I make our functions smart or angry
+-figuring out the size of the image shouldn't be that garbage
+-increased back channels
+-new architexture
+-some sort of graphical exploerer 
+-new ideas other than the autoencoder,
+ -- I think I decided to use an object detector, and then, use anomaly detection on the results of the detection.
+-add chickens
+-use some data from the street camera
+-make smaller images
+-experiment with dataset
