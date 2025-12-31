@@ -1,0 +1,7 @@
+
+Okay, so, after we adjusted for the structural problem and reconfigured everything to use the same error function we got:
+
+1.. Cases where the lamp that was turned on didn't look that great. 
+2.. No structural anaomalies.
+3.. 32 back channels did better than 64.  65 still showed more of the lumanicense than I liked. 
+4.. So, next step, lets try MSE.   ChatGPT says that won't work.  I don't quite get why.
