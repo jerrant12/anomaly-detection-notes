@@ -7,3 +7,11 @@ Overall, pretty good.  ChatGPT has convinced me that mse will over-penalize brig
 when I go general.   Hrm.....
 
 At any rate, next experiment will be with luminosity weighed l1.  I was surprised at how quickly even I could code it up. 
+
+Okay, weighted luminosity was the the clearwinner.  3 separate groupings with the last being almost entirely perfect anamolies.   There was some trouble
+in the trail, but nothing to worry about.
+
+So, we decided that we may want to see how this classifier works on other cameras
+
+And on motion in the street.   What else? I dunno.  Definitely quality of life improvements.  What would playing around with other architectures get me?
+Nothing, right now.   I guess I could try larger chennels. 

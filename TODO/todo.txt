@@ -1,17 +1,25 @@
--add comments
--what a function is doing
--should I make our functions smart or angry
--figuring out the size of the image shouldn't be that garbage
--increased back channels -- doing that, so far, 32 seems best. 
--new architexture
--some sort of graphical exploerer 
+// DONE or put off
+-add comments -- done
+-what a function is doing -- done
+-should I make our functions smart or angry -- put it off...our friend added reasonable backups
+-figuring out the size of the image shouldn't be that garbage..turns out it wasn't
+-increased back channels -- doing that, so far, 32 seems best.  -- doing this.  
+-new architexture (like what would I do? And why, it seems to be working, and I kinda want to go other places right now.  But easily visit this as needed)
+
+-some sort of graphical exploerer  (something to think about)
 -new ideas other than the autoencoder,
  -- I think I decided to use an object detector, and then, use anomaly detection on the results of the detection.
+-allow multiple data sets
+
+
+// Next
 -add chickens
 -use some data from the street camera
 -experiment with dataset - should I add jitter and noise to the training set? 
    -- should I combine data sets.
      
 -some sort of filter on the final output.   Like you have to have thresholds on either side of you to activate.  
--make my loss functions more generic so I can plug and play. I would also like to plug and play reconstruction. 
+-make my loss functions more generic so I can plug and play. :wq -- did that.  The reconstruction banner thing had to be pretty common
+   unless I passed a fish tone of functions or line or something.......feels like too much......A
+   I would also like to plug and play reconstruction. 
 
