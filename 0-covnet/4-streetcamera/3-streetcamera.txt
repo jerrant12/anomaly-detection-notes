@@ -1,0 +1,8 @@
+
+I added in the street camera and I am getting none of the as errors.
+I just did the street camera by itself, and guess what, I am getting some lumination errors.  Looks like a drop on the window is messing with it. 
+
+1.. Should I get a different training set. 
+2.. structure vs luminosity?  I want structure. 
+3.. what about some sort of line detection first to get out some structure? 
+

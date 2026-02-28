@@ -1,0 +1,6 @@
+
+Okay, I split the chickens and add them.
+In both runs, the chickens were learned and learned well.  I think it also may have moved some of the errors farther apart.   So, diversity
+is key here.   So, we can actually expect better as we add stuff.   
+
+I don't think the bear scores were significantly different.   I am now running my experiment with changing the weights of l1 and mssim.  mssim is driving to the point one wonders what good l1 is out there doing.   
