@@ -1,0 +1,16 @@
+1.. Okay, structure.
+2.. make a new directory
+3.. decide on the first experiment
+4.. what makes success.  
+
+Okay, my first experiment.  
+- I want to see how edge detection works. 
+- So, I want to run edge detection on the image
+- So, should I pre-process the thing? if it takes a long time.
+- So input -> edge detect -> learn
+- then what do I want?  An image, the edge detection, the recontruction, the error. 
+
+So I need to modify what I have to turn image into edge detection
+then in my predict program, I need to modify the output. 
+I think this will work okay? 
+

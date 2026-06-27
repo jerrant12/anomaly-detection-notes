@@ -10,3 +10,5 @@ I just did the street camera by itself, and guess what, I am getting some lumina
 I don't remember of the training set.
 the structure idea was validated by the thing.  What thing? The LLM.
 So I am running one more model with just structure stuff.   I don't know what I am trying to prove by this one.   I guess I just want to see if the structural thing works at all.   I don't think it will.  
+
+Looks like it didn't work.  I don't remember the last time I used this. 
